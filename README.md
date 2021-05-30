@@ -17,4 +17,4 @@ Créer deux sous répertoires pour le répertoire Real :
   * Telluriques 
   * Gazeuses
 
-Avoir un fichier commands.txt se trouvant dans Day00/ex00/planets contenant l'historique des commandes effectuées sous le terminal pour effectuer le rangement.
+Avoir un fichier commands.txt se trouvant dans Day00/ex00/Planets contenant l'historique des commandes effectuées sous le terminal pour effectuer le rangement.
