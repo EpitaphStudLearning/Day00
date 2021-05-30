@@ -28,3 +28,19 @@ Tu trouveras un fichier alumni.csv, ce fichier contient la liste des anciens él
    * php_france_2019.csv qui contiendra uniquement le nombre d'alumnis ayant fait du PHP en france, en 2019.
    * javascript_biarritz_toulouse.csv qui contiendra uniquement les alumnis ayant fait du JavaScript, sur les campus de Toulouse et Biarritz.
    * david.csv qui contiendra le nombre de toutes les personnes qui portent David en prénom ou en nom.
+
+---
+
+### Exercice 02
+
+Créer un script qui salue un utilisateur, lui demande son prénom, et lui retourne une salutation en fonction de son prénom pris en paramètre. 
+
+Le script devra avoir le nom suivant "bonjour.sh" .
+Devra avoir le retour suivant : 
+
+```
+$ ./bonjour.sh 
+Bonjour, quel est vôtre prénom ? 
+{votre prénom}
+Bonjour, {votre prénom} !
+```
