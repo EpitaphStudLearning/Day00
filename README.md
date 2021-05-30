@@ -70,4 +70,17 @@ $ bash git_commit.sh | cat -e
 $
 ```
 
+---
+
+### Exercice 05
+
+# Exercice 05
+
+Ecrire une ligne de commande qui affiche la liste de groupes séparés par des virgules sans espaces.
+
+```bash
+$./print_groups.sh
+niters,adm,cdrom,sudo,dip,plugdev,lpadmin,lxd,sambashare
+```
+
 
