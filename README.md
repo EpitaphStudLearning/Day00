@@ -44,3 +44,30 @@ Bonjour, quel est vôtre prénom ?
 {votre prénom}
 Bonjour, {votre prénom} !
 ```
+
+---
+
+### Exercice 03
+
+Placer dans un fichier  midLS la ligne de commande à taper pour lister les fichiers et les répertoires du répertoire courant, mais pas les fichiers cachés, ni '.' ni '..' (rien ne commençant par un point), séparés par des virgules, triés par date de création et de manière à ce que les répertoires soient suivis d'un caractère slash.
+
+---
+
+### Exercice 04
+
+Créer un script shell nommé git_commit.sh qui renvoie les id des 5 derniers commit de votre dépot git.
+
+le résultat devra être le suivant  : 
+
+```bash
+$ bash git_commit.sh | cat -e
+490adecc778850161dae36d1b0b503abce83c171$
+43ccb1031df2b92d557c3ab48a9a2f4ffff66690$
+8cae02c5e98085b32c02303d4d7d90df9a1744fa$
+225b0cfbc55030edda98e4134d9ed6683e31f16f$
+2df0de72259517a23210a073814fab14a0265e32$
+
+$
+```
+
+
