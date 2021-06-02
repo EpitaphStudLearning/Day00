@@ -1,0 +1,136 @@
+    1  "man sudo root"
+    2  print
+    3  man ls
+    4  ls -a
+    5  cd..
+    6  cd ..
+    7  cd man
+    8  ..
+    9  cd doc
+   10  cd do
+   11  ls
+   12  cd it
+   13  ls -a
+   14  pwd
+   15  ls
+   16  ex00
+   17  ls
+   18  mkdir Real
+   19  mkdir real
+   20  mkdir "real"
+   21  git@.
+   22  ls
+   23  git clone https://github.com/Nicoprost/Day00.git
+   24  sudo git clone https://github.com/Nicoprost/Day00.git
+   25  ls
+   26  cd Day00
+   27  mkdir real
+   28  sudo mkdir real
+   29  ls
+   30  cd real
+   31  mkdir sous 
+   32  sudo mkdir sous 
+   33  ls
+   34  cd sous
+   35  touch fichier
+   36  sudo touch fichier
+   37  ls
+   38  cd ..
+   39  cd /home
+   40  cd /home/Day00/real/sous
+   41  cd ..
+   42  mkdir telluriques
+   43  sudo mkdir telluriques
+   44  sudo mkdir gazeuses
+   45  ls
+   46  rmdir sous
+   47  sudo rmdir sous
+   48  ls
+   49  sudo rmdir sous
+   50  rmdir -p sous
+   51  sudo rmdir -p sous
+   52  ls
+   53  rmdir sous
+   54  sudo rmdir -p sous
+   55  dir day00
+   56  cd day00
+   57  ls
+   58  cd ..
+   59  mkdir Star Wars
+   60  sudo mkdir Star Wars
+   61  ls
+   62  mkdir StarTrek
+   63  sudo mkdir StarTrek
+   64  ls
+   65  rmdir Star
+   66  sudo rmdir Star
+   67  sudo rmdir Wars
+   68  sudo mkdir StarWars
+   69  ls
+   70  cd real
+   71  ls
+   72  sudo rmdir sous
+   73  rm sous
+   74  ls
+   75  rm dir fichier
+   76  rmdir fichier
+   77  cd sous
+   78  rmdir fichier
+   79  rm fichier
+   80  rmdir sous
+   81  cd real
+   82  ls
+   83  sudo rm fichier
+   84  sudo rm sous
+   85  cd real
+   86  sudo cd real
+   87  ls
+   88  cd real
+   89  cd ..
+   90  sudo rm sous
+   91  rmdir sous
+   92  sudo rmdir sous
+   93  ls
+   94  cd ..
+   95  ls
+   96  cd ex00
+   97  1 ls
+   98  ls
+   99  cd
+  100  pwd
+  101  ls
+  102  cd Documents/
+  103  ls
+  104  git clone https://github.com/Nicoprost/Day00.git
+  105  ls
+  106  cd Day00
+  107  ls
+  108  cd ex00
+  109* ls 
+  110  cd Planets
+  111  ls
+  112  pwd
+  113  mkdir Real
+  114  mkdir StarWars
+  115  mkdir StarTrek
+  116  ls
+  117  cd real
+  118  cd Real
+  119  mkdir Telluriques
+  120  mkdir Gazeuses
+  121  ls
+  122  cd Planets
+  123  sudo cd Planets
+  124  cd ..
+  125  ls
+  126  commands.txt
+  127  cd ..
+  128  cd Planets
+  129  cdm txt
+  130  mkdir commands.txt
+  131  ls
+  132  rmdir commands.txt
+  133  ls
+  134  history
+  135  history>>
+  136  history>> commands.txt
